@@ -21,6 +21,26 @@ One of the key difficulties was working with JSON-based storage, where even smal
 
 <img width="625" height="555" alt="image" src="https://github.com/user-attachments/assets/f1e26e1f-37ed-43d3-97c8-4a0f7eab0a15" />
 
+---
+
 ## ⚙️ How to Run the Project
 
-Clone the repository git clone https://github.com/nandu775209/study_flow_task-manager.git cd study_flow_task-manager Start the backend cd backend npm install node server.js Start the frontend cd frontend npm install npm run dev
+### Backend
+```bash
+cd backend
+npm install
+npm run dev // node server.js
+
+```
+
+Backend runs on:
+```
+http://localhost:3000
+```
+
+### Frontend
+cd frontend
+npm install
+npm run dev
+
+---
