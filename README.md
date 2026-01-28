@@ -19,7 +19,7 @@ One of the key difficulties was working with JSON-based storage, where even smal
 
 ## 📁 Project Structure
 
-taskflow/ │ ├── backend/ │ ├── controllers/ # Request and response logic │ ├── routes/ # API endpoints │ ├── models/ # Data models / schemas │ ├── data/ │ │ └── tasks.json # JSON file for storing tasks │ ├── server.js # Backend entry point │ └── package.json # Backend dependencies │ ├── frontend/ │ ├── src/ │ │ ├── components/ # Reusable UI components │ │ ├── App.jsx # Main React component │ │ ├── main.jsx # React entry file │ │ └── index.css # Global styles (Tailwind CSS) │ ├── index.html # Single HTML file │ ├── vite.config.js # Vite configuration │ └── package.json # Frontend dependencies │ └── README.md # Project documentation
+<img width="625" height="555" alt="image" src="https://github.com/user-attachments/assets/f1e26e1f-37ed-43d3-97c8-4a0f7eab0a15" />
 
 ## ⚙️ How to Run the Project
 
