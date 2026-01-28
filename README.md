@@ -39,8 +39,14 @@ http://localhost:3000
 ```
 
 ### Frontend
+```bash
 cd frontend
-npm install
 npm run dev
+```
 
+frontend runs on:
+```
+http://localhost:5173
+
+```
 ---
