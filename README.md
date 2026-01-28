@@ -76,6 +76,29 @@ http://localhost:5173
 
 ---
 
-## deployment Link
 
+---
+
+## ✅ Features Implemented
+
+- Add task with auto-generated ID
+- Delete task using delete button
+- Delete task using task ID
+- JSON file based storage
+- Async/await based API handling
+- Error handling for failed operations
+- UI updates without page refresh
+
+---
+
+## 🧪 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- JSON file storage
+
+---
 
