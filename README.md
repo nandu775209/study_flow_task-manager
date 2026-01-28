@@ -50,3 +50,28 @@ http://localhost:5173
 
 ```
 ---
+
+
+## 📸 Screenshots
+
+### Initial Dashboard
+<img width="740" height="533" alt="image" src="https://github.com/user-attachments/assets/42259f78-8005-4777-a000-fde446bd962a" />
+
+
+### Dashboard with 3 Tasks
+<img width="907" height="950" alt="image" src="https://github.com/user-attachments/assets/41d574cf-ef81-42ad-af27-9f923ef06970" />
+
+
+### Task Added Successfully
+<img width="668" height="885" alt="image" src="https://github.com/user-attachments/assets/d91f4534-2944-4dec-b7c6-9dbb1f93101c" />
+
+
+### Task Deleted Successfully
+
+<img width="735" height="811" alt="image" src="https://github.com/user-attachments/assets/4361b186-6a27-4bfb-ae1e-834aab064cdc" />
+
+
+### progress analyzers 
+<img width="840" height="271" alt="image" src="https://github.com/user-attachments/assets/f5a8173b-1b37-4f46-9eeb-c76dc7efa716" />
+
+---
